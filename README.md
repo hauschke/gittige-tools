@@ -12,6 +12,7 @@ Eine mögliche Lösung dieser Problematiken könnte in der Nutzung von Versionsk
 - Authorea
 - Github
 - SciGit
+- [Draftin](https://draftin.com)
 - Editoren, die mit Git oder Github arbeiten (z.B. prose.io)
 - Versionieren von Dateien ohne Diff etc. (z.B. Dropbox, [Google Drive-Versionierung])
 - Lokale Lösungen wie 
